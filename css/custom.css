@@ -123,12 +123,16 @@ h3.sectionTitle {
 	background: #333;
 }
 
+.navbar-header{
+  margin: 0 0 0 50%;
+}
+
 /**********************************************************************/
 /************************** JUMBOTRON ********************************/
 /********************************************************************/
 
 .jumbotron {
-	background: url(../assets/img/bigBG.png) no-repeat center center scroll;
+	background: url(../assets/img/letsdraw.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -329,6 +333,7 @@ h3.sectionTitle {
 #testimonialsWrap {
 	padding-top: 60px;
 	padding-bottom: 40px;
+  background: orange;
 }
 #testimonialsWrap .slides {
 	text-align: center;
